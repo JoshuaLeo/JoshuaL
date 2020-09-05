@@ -1,0 +1,2 @@
+# JoshuaL
+Good afternoon, I have this exercise on sum carry. I have tried posing with arrays and inverting from where it starts and setting conditions but never got the desired result. Thanks in advance to anyone who is willing to help. Attached I leave the hackerrank page where you can test the exercise and there are more examples. https://www.hackerrank.com/contests/prog220200802-a/challenges/prog-ii-2dosem-02-sumas/problem
